@@ -1,0 +1,43 @@
+
+
+h1{
+    color: red;
+}
+
+hr{
+    height:10px;
+    
+    border-width:20;color:black;
+    background-color:lightgreen
+}
+
+
+
+.header{
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+.menu{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.grid{
+    
+    display: flex;
+     
+    justify-content: center;
+  
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+
